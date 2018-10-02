@@ -1,6 +1,4 @@
-# How Many Days Until Halloween?
 
-Idk. Let [this page](http://shannoncrabill.com/how-many-days-until-halloween/) do the counting for you!
 
 ## About
 
